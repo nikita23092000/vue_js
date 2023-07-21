@@ -11,6 +11,10 @@
             <RouterLink to='/user' >
                 Страница пользователя
             </RouterLink>
+            <RouterLink to='/news' >
+                Новости
+            </RouterLink>
+
         </nav>
     </header>
 </template>

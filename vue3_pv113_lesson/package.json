@@ -1,5 +1,5 @@
 {
-  "name": " test",
+  "name": " vue3_pv113_lesson",
   "version": "0.0.0",
   "private": true,
   "scripts": {
@@ -9,7 +9,6 @@
   },
   "dependencies": {
     "vue": "^3.3.4",
-    "vue-axios": "^3.5.2",
     "vue-router": "^4.2.2"
   },
   "devDependencies": {
